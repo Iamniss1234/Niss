@@ -157,3 +157,9 @@
       width: 100%;
     }
   }
+  p{
+    font-size: 30px;
+    color: black;
+    margin-top: 20%;
+    margin-left: 20%;
+  }
